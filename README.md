@@ -4,5 +4,5 @@
 - 📫 How to reach me follow me on email restuimamsafii@gmail.com
 
 ## Github Performance
-![github stats](https://github-readme-stats.vercel.app/api?username=adzazarif&show_icons=true&theme=tokyonight)
-![github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=adzazarif&layout=compact&theme=tokyonight&langs_count=8)
+![github stats](https://github-readme-stats.vercel.app/api?username=semafie&show_icons=true&theme=tokyonight)
+![github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=semafie&layout=compact&theme=tokyonight&langs_count=8)
