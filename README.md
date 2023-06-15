@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Restu Imam Safii,you can call me restu
-- 👀 I’m interested in All Progamming
-- 🌱 I’m currently learning object oriented progamming java and sleep anytime
-- 📫 How to reach me follow me on email restuimamsafii@gmail.com
-
+  ## Social Media
 <p align="leading">
   <a href="https://www.linkedin.com/in/restu-imam-safii-6bb65424a/">
-    <img src="https://img.shields.io/badge/-Linked in-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&labelColor=grey&color=grey">
+    <img src="https://img.shields.io/badge/-Linked in-black?style=for-the-badge&logo=Linkedin&logoColor=blue&labelColor=grey&color=grey">
   </a>
 
   ## Github Performance
