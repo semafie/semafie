@@ -5,7 +5,7 @@
 
 <p align="leading">
   <a href="https://www.linkedin.com/in/restu-imam-safii-6bb65424a/">
-    <img src="https://img.shields.io/badge/-Linked in-blue?style=for-the-badge&logo=Linkedin&logoColor=blue&labelColor=blue&color=grey">
+    <img src="https://img.shields.io/badge/-Linked in-grey?style=for-the-badge&logo=Linkedin&logoColor=blue&labelColor=blue&color=grey">
   </a>
 
   ## Github Performance
