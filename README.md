@@ -7,5 +7,6 @@ Hi there 👋
   ## Github Performance
   ![github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=semafie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-![github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=semafie&layout=compact&theme=tokyonight&langs_count=8)
-![snake_gif](https://github.com/semafie/semafie/blob/output/github-contribution-grid-snake-dark.svg)
+  ![github top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=semafie&layout=compact&theme=tokyonight&langs_count=8)
+  
+  ![snake_gif](https://github.com/semafie/semafie/blob/output/github-contribution-grid-snake-dark.svg)
